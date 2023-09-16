@@ -14,7 +14,11 @@ export class ThingsService {
   }
 
   findAll() {
-    return this.prisma.things.findMany();
+    return this.prisma.things.findMany({
+      include: {
+        category: true,
+      },
+    });
   }
 
   findOne(id: number) {
