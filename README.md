@@ -1,5 +1,3 @@
-Certamente, aqui está um exemplo de um arquivo `README.md` para um projeto no GitHub que envolve um CRUD com backend em NestJS, utilizando o Prisma como provider para o banco de dados PostgreSQL em um container Docker:
-
 ```markdown
 # Projeto de CRUD com NestJS, Prisma e PostgreSQL em Docker
 
