@@ -64,14 +64,6 @@ Você pode agora utilizar o CRUD através das rotas fornecidas pelo servidor Nes
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar pull requests para melhorar este projeto.
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](license.md) para obter detalhes.
-
-```
-
-Lembre-se de personalizar este arquivo de acordo com os detalhes específicos do seu projeto, como nome da entidade CRUD, configurações do banco de dados, rotas da API, entre outros. Certifique-se também de incluir os detalhes de licença apropriados e informações adicionais relevantes para os colaboradores e usuários do seu projeto.
-
 
 <p align="center">
   <a href="https://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
@@ -96,5 +88,15 @@ Lembre-se de personalizar este arquivo de acordo com os detalhes específicos do
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+
+
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](license.md) para obter detalhes.
+
+```
+
+Lembre-se de personalizar este arquivo de acordo com os detalhes específicos do seu projeto, como nome da entidade CRUD, configurações do banco de dados, rotas da API, entre outros. Certifique-se também de incluir os detalhes de licença apropriados e informações adicionais relevantes para os colaboradores e usuários do seu projeto.
 
 

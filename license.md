@@ -1,5 +1,3 @@
-Certamente! Aqui está um exemplo de um arquivo de licença (LICENSE) para um projeto CRUD com backend NestJS usando Prisma e um banco de dados PostgreSQL em um container Docker:
-
 ```
 MIT License
 
